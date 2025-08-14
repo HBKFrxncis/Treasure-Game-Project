@@ -1,0 +1,28 @@
+        
+        
+        
+          Start Game
+              │
+        Generate Grid
+              │
+   Randomly Place Treasure, Traps, Power-ups
+              │
+        Player Turn Begins
+              │
+    Player Chooses Move or AI Search
+              │
+ ┌───────────────┬───────────────┬───────────────┐
+ | Manual Move   | BFS Pathfind  | DFS Explore   |
+ └───────────────┴───────────────┴───────────────┘
+              │
+    Check for Treasure, Traps, or Power-ups
+              │
+        Update Health / Status
+              │
+  Check Win Condition or Player Elimination?
+              │
+        Yes ───► End Game
+              │
+              No
+              │
+        Next Player's Turn
