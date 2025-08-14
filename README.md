@@ -1,6 +1,6 @@
 # Treasure-Game-Project
 This is a mini Treasure Game Project I made for a University Assignment Submission in 2nd Year
-//
+<br>
 This project presents a grid-based treasure hunt game, where players compete to find hidden
 treasure while avoiding traps and collecting power-ups. The game incorporates Artificial
 Intelligence (AI) search algorithms such as Binary Search (BS), Breadth-First Search (BFS), and
